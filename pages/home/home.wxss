@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+
+.title{
+  color: coral;
+  font-size: 25px;
+}
